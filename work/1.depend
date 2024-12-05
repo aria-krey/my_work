@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733427378 source:c:\users\user\downloads\work\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
